@@ -6,7 +6,7 @@ num = 29
 #num = int(input("Enter a number: "))
 
 # define a flag variable
-flag = False
+flag = True
 
 if num = 1:
     print(num, "is not a prime number")
